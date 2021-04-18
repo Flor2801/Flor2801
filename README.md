@@ -1,10 +1,8 @@
 ### Hola!! 👋
 
-<!--
-**Flor2801/Flor2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Soy desarrolladora FrontEnd
-i´m FrontEnd Developer
+##Soy desarrolladora FrontEnd
+#i´m FrontEnd Developer
 
 - 🔭 Alumna ADA Itw
 - 🌱 HTML, CSS, JS, REACT, SASS, GIT, BOOSTRAP, BULMA.
@@ -14,4 +12,4 @@ i´m FrontEnd Developer
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
