@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hola!! 👋
 
 <!--
 **Flor2801/Flor2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy desarrolladora FrontEnd
+i´m FrontEnd Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Alumna ADA Itw
+- 🌱 HTML, CSS, JS, REACT, SASS, GIT, BOOSTRAP, BULMA.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
