@@ -1,7 +1,7 @@
 ### Hola!! 👋
 
 
-##Soy desarrolladora FrontEnd
+##Mi nombre es Florencia Sarria y soy Desarrolladora FrontEnd 
 
 
 - 😄 Alumna ADA Itw
