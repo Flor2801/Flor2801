@@ -5,6 +5,6 @@
 
 
 - 😄 Alumna ADA Itw
-- ⚡ HTML, CSS, JS, REACT, SASS, GIT, BOOSTRAP, BULMA.
+- ⚡ Tecnologías: HTML, CSS, Javascript, REACT, Sass, Git/GitHub, Boostrap, Bulma, Material.
 
 
