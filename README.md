@@ -6,5 +6,6 @@
 
 - 😄 Alumna ADA Itw
 - ⚡ Tecnologías: HTML, CSS, Javascript, REACT, Sass, Git/GitHub, Boostrap, Bulma, Material.
+- 👩‍💻 Me gusta resolver problemas.
 
 
