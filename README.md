@@ -5,7 +5,7 @@
 
 
 - 👩‍💻 Egresada ADA Itw
-- ⚡ Tecnologías: HTML, CSS, Javascript, ReactJs (hooks, styled components), Sass, Git/GitHub, Boostrap, Bulma, Material Design.
+- ⚡ Tecnologías: HTML, CSS, Javascript, ReactJs, Sass, Git/GitHub, Boostrap, Bulma, Material Design.
 - 😄 Me encanta resolver problemas y soy muy detallista.
 
 
